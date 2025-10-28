@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ]
+  ],
+  "legacy_uid": "b2076bb5-4460-6b63-2502-783ab3686acc",
+  "instructors": {
+    "content": [
+      "165470cd-76a3-6e26-f61d-76ceb95ddf03"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "20bc7ef9-a5b3-9a00-7880-a512f9d5af94",
+    "website": "16-00-introduction-to-aerospace-engineering-and-design-spring-2003"
+  },
+  "course_title": "Introduction to Aerospace Engineering and Design",
+  "course_description": "The fundamental concepts, and approaches of aerospace engineering, are highlighted through lectures on aeronautics, astronautics, and design. Active learning aerospace modules make use of information technology. Student teams are immersed in a hands-on, lighter-than-air (LTA) vehicle design project, where they design, build, and fly radio-controlled LTA vehicles. The connections between theory and practice are realized in the design exercises. Required design reviews precede the LTA race competition. The performance, weight, and principal characteristics of the LTA vehicles are estimated and illustrated using physics, mathematics, and chemistry known to freshmen, the emphasis being on the application of this knowledge to aerospace engineering and design rather than on exposure to new science and mathematics.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.00",
+  "course_image_thumbnail": {
+    "content": "4eb6e349-cc24-5054-f382-8eb01dc861ba",
+    "website": "16-00-introduction-to-aerospace-engineering-and-design-spring-2003"
+  },
+  "learning_resource_types": [
+    "Projects",
+    "Written Assignments",
+    "Activity Assignments with Examples",
+    "Problem Sets"
+  ],
+  "site_uid": "148f1ae4-8321-4b00-87ee-3124d2474b0c",
+  "site_short_id": "16.00-spring-2003",
+  "site_url_path": "courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003",
+  "title": "Course Metadata"
+}
